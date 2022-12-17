@@ -1,0 +1,12 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+  "ConnectionStrings": {
+    "MvcKiemtraContext": "Server=(localdb)\\mssqllocaldb;Database=MvcKiemtra.Data;Trusted_Connection=True;MultipleActiveResultSets=true"
+  }
+}
